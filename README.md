@@ -2,8 +2,6 @@
 
 A modern web application built with React and TypeScript that automatically generates optimal course timetables for educational institutions.
 
-![Timetable Generator](https://www.google.com/imgres?q=timetable%20related%20images&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Fstudents-calendar-blank-lines-kids-everyday-planner-sheet-template-school-timetable-design-lessons-schedule-time-table-310955433.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fstudents-calendar-blank-lines-kids-everyday-planner-sheet-template-school-timetable-design-lessons-schedule-time-table-image310955433&docid=d3q3T9RFYHR1BM&tbnid=zrgbaBOEr1hoDM&vet=12ahUKEwjjn561kKeLAxXQSmwGHSMeE7gQM3oECHMQAA..i&w=1600&h=987&hcb=2&ved=2ahUKEwjjn561kKeLAxXQSmwGHSMeE7gQM3oECHMQAA)
-
 ## ✨ Features
 
 - **Course Management**
