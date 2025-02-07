@@ -2,6 +2,7 @@ import React from 'react';
 import { Trash2 } from 'lucide-react';
 import type { Course } from '../types';
 
+
 interface CourseListProps {
   courses: Course[];
   onRemoveCourse: (id: string) => void;
