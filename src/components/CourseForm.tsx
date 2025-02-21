@@ -2,9 +2,11 @@ import React, { useState } from 'react';
 import { PlusCircle } from 'lucide-react';
 import type { Course } from '../types';
 
-interface CourseFormProps {
+interface CourseFormProps 
+{
   onAddCourse: (course: Course) => void;
 }
+
 
 export function CourseForm({ onAddCourse }: CourseFormProps) {
   const [course, setCourse] = useState<Course>({
